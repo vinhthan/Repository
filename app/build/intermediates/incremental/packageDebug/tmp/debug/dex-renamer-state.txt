@@ -1,0 +1,4 @@
+#Wed Dec 04 14:40:25 ICT 2019
+base.0=D\:\\Andoid-Kotlin-Nguyen-Tac-Co-Ban\\Bai 9\\DevBytes-starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
